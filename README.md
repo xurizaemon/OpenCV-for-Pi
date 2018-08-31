@@ -3,7 +3,7 @@ A pre-compiled binary of OpenCV for the Raspberry Pi.   It is available in a ".d
 
 # Super Lazy Version
 ```
-curl -sSf https://github.com/jabelone/OpenCV-for-Pi/raw/master/lazy_install.sh | sh
+curl -sSf https://raw.githubusercontent.com/jabelone/OpenCV-for-Pi/master/lazy_install.sh | sh
 ```
 Remember to check the script before piping it into your bash! ¯\\_(ツ)_/¯
 
